@@ -18,7 +18,7 @@ El dataset elegido contiene información sobre ventas de videojuegos por título
 
 ## Fuente de los datos
 
-- [Kaggle Dataset: Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings](https://www.kaggle.com/datasets/ulrikthygepedersen/video-games-sales))
+- [Kaggle Dataset: Video Game Sales](https://www.kaggle.com/datasets/ulrikthygepedersen/video-games-sales)
 - Archivo trabajado: `video_games_sales.csv`
 
 ---
@@ -69,7 +69,7 @@ Se ha creado un dashboard en Google Sheets que muestra:
 - Línea temporal: Evolución de ventas por décadas
 
 Enlace al dashboard:  
-🔗 [Google Sheets - Video Game Sales Dashboard (modo lectura)]((https://docs.google.com/spreadsheets/d/1rZN-74t_IDJFLd0j2Jyu0D5LVOxKELAAQDH31E8MNCU/edit?usp=sharing))
+🔗 [Google Sheets - Video Game Sales Dashboard (modo lectura)](https://docs.google.com/spreadsheets/d/1rZN-74t_IDJFLd0j2Jyu0D5LVOxKELAAQDH31E8MNCU/edit?usp=sharing)
 
 ---
 

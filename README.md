@@ -18,7 +18,7 @@ El dataset elegido contiene información sobre ventas de videojuegos por título
 
 ## Fuente de los datos
 
-- [Kaggle Dataset: Video Game Sales]([https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings](https://www.kaggle.com/datasets/ulrikthygepedersen/video-games-sales)])
+- [Kaggle Dataset: Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings](https://www.kaggle.com/datasets/ulrikthygepedersen/video-games-sales))
 - Archivo trabajado: `video_games_sales.csv`
 
 ---
